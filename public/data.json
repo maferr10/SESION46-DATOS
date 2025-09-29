@@ -1,0 +1,302 @@
+[
+{
+"id": 1,
+"name": "Carpeta de Anillas A4",
+"price": 3.49,
+"category": "Archivador",
+"inStock": true,
+"rating": 4.5,
+"createdAt": "2025-03-10T08:00:00Z",
+"description": "Carpeta resistente con anillas para organizar documentos importantes. Ideal para presentaciones y almacenamiento diario."
+},
+{
+"id": 2,
+"name": "Bolígrafo Tinta Negra Estándar",
+"price": 1.99,
+"category": "Boligrafos",
+"inStock": true,
+"rating": 4.8,
+"createdAt": "2024-11-20T10:30:00Z",
+"description": "Escritura suave y flujo constante de tinta negra. Perfecto para tomar notas rápidas o firmar documentos importantes."
+},
+{
+"id": 3,
+"name": "Paquete de 500 Hojas Blancas",
+"price": 6.75,
+"category": "Papeleria",
+"inStock": true,
+"rating": 4.2,
+"createdAt": "2025-07-01T15:45:00Z",
+"description": "Papel de alta calidad, blanco brillante, ideal para impresoras láser y de inyección. Apto para cualquier oficina."
+},
+{
+"id": 4,
+"name": "Tijeras de Precisión Ergonómicas",
+"price": 8.10,
+"category": "Tools",
+"inStock": true,
+"rating": 4.6,
+"createdAt": "2025-01-15T11:20:00Z",
+"description": "Tijeras ergonómicas de acero inoxidable con punta fina para cortes precisos en papel o cartulina gruesa."
+},
+{
+"id": 5,
+"name": "Archivador Vertical Móvil 3 Cajones",
+"price": 89.99,
+"category": "Archivador",
+"inStock": false,
+"rating": 3.9,
+"createdAt": "2024-10-05T09:15:00Z",
+"description": "Gabinete vertical con ruedas y tres cajones de gran capacidad para guardar carpetas colgantes y suministros varios."
+},
+{
+"id": 6,
+"name": "Set de 10 Bolígrafos Gel de Colores",
+"price": 15.20,
+"category": "Boligrafos",
+"inStock": true,
+"rating": 4.7,
+"createdAt": "2025-05-22T13:40:00Z",
+"description": "Bolígrafos de tinta gel vibrantes para resaltar y codificar información. Colores intensos y duraderos para proyectos creativos."
+},
+{
+"id": 7,
+"name": "Cuaderno Espiral A5 100 Hojas",
+"price": 4.50,
+"category": "Papeleria",
+"inStock": true,
+"rating": 4.4,
+"createdAt": "2025-08-14T16:05:00Z",
+"description": "Cuaderno con tapas duras y espiral resistente. Hojas rayadas para facilitar la toma de notas en cualquier reunión."
+},
+{
+"id": 8,
+"name": "Dispensador de Cinta Adhesiva Pesado",
+"price": 10.95,
+"category": "Tools",
+"inStock": false,
+"rating": 4.1,
+"createdAt": "2024-12-03T14:55:00Z",
+"description": "Dispensador pesado y antideslizante, fácil de usar con una sola mano. Incluye un rollo de cinta transparente de prueba."
+},
+{
+"id": 9,
+"name": "Caja de Archivo Definitivo Reforzada",
+"price": 5.80,
+"category": "Archivador",
+"inStock": true,
+"rating": 4.3,
+"createdAt": "2025-04-28T12:35:00Z",
+"description": "Caja de cartón reforzado para almacenar documentos a largo plazo. Se apila fácilmente y protege contra el polvo y la humedad."
+},
+{
+"id": 10,
+"name": "Marcador Permanente Negro Punta Fina",
+"price": 2.50,
+"category": "Boligrafos",
+"inStock": true,
+"rating": 4.9,
+"createdAt": "2025-06-19T09:50:00Z",
+"description": "Tinta de secado rápido, resistente al agua y a la decoloración. Ideal para etiquetar cajas y materiales de almacenamiento."
+},
+{
+"id": 11,
+"name": "Post-its Amarillos Pack x10",
+"price": 7.99,
+"category": "Papeleria",
+"inStock": true,
+"rating": 4.7,
+"createdAt": "2024-09-30T17:10:00Z",
+"description": "Notas adhesivas reposicionables para recordatorios rápidos y mensajes importantes en el escritorio o monitor."
+},
+{
+"id": 12,
+"name": "Calculadora de Escritorio Profesional",
+"price": 18.75,
+"category": "Tools",
+"inStock": true,
+"rating": 4.5,
+"createdAt": "2025-02-08T10:00:00Z",
+"description": "Calculadora grande con doble fuente de energía. Pantalla LCD de 12 dígitos, muy práctica para contabilidad y finanzas."
+},
+{
+"id": 13,
+"name": "Separadores de Cartulina A4 x5",
+"price": 4.15,
+"category": "Archivador",
+"inStock": true,
+"rating": 4.0,
+"createdAt": "2025-03-25T11:50:00Z",
+"description": "Separadores con pestañas personalizables para clasificar y dividir documentos. Hechos de cartulina duradera y de colores."
+},
+{
+"id": 14,
+"name": "Pluma Estilográfica Ejecutiva",
+"price": 45.00,
+"category": "Boligrafos",
+"inStock": false,
+"rating": 4.8,
+"createdAt": "2024-10-29T14:10:00Z",
+"description": "Elegante pluma con punta mediana y diseño de lujo. Viene con un cartucho de tinta azul recargable."
+},
+{
+"id": 15,
+"name": "Sobres Blancos Carta x100",
+"price": 11.55,
+"category": "Papeleria",
+"inStock": true,
+"rating": 4.4,
+"createdAt": "2025-07-18T09:30:00Z",
+"description": "Sobres de seguridad autoadhesivos para envío de documentos confidenciales. Tamaño estándar para correspondencia de oficina."
+},
+{
+"id": 16,
+"name": "Perforadora Metálica 20 Hojas",
+"price": 14.99,
+"category": "Tools",
+"inStock": true,
+"rating": 4.2,
+"createdAt": "2025-01-02T16:25:00Z",
+"description": "Perforadora metálica robusta con capacidad para 20 hojas. Incluye guía de centrado ajustable y base antideslizante."
+},
+{
+"id": 17,
+"name": "Estantería Modular para Archivo",
+"price": 120.50,
+"category": "Archivador",
+"inStock": true,
+"rating": 4.1,
+"createdAt": "2025-05-07T13:00:00Z",
+"description": "Estantería metálica resistente y fácil de montar, perfecta para almacenar cajas y carpetas pesadas en el almacén."
+},
+{
+"id": 18,
+"name": "Lápices de Grafito HB Caja x12",
+"price": 5.90,
+"category": "Boligrafos",
+"inStock": true,
+"rating": 4.6,
+"createdAt": "2024-12-11T08:40:00Z",
+"description": "Lápices de madera de alta calidad para dibujo técnico y escritura general. El grafito es fuerte y se borra fácilmente."
+},
+{
+"id": 19,
+"name": "Etiquetas Adhesivas Multiusos",
+"price": 9.35,
+"category": "Papeleria",
+"inStock": true,
+"rating": 4.3,
+"createdAt": "2025-08-30T10:15:00Z",
+"description": "Hojas de etiquetas compatibles con impresoras láser e inyección. Ideales para crear direcciones o identificar contenido en carpetas."
+},
+{
+"id": 20,
+"name": "Destructora de Papel de Seguridad",
+"price": 159.99,
+"category": "Tools",
+"inStock": false,
+"rating": 4.7,
+"createdAt": "2024-11-01T15:00:00Z",
+"description": "Destructora potente de corte en partículas para documentos de alta seguridad. Protege tu información sensible de la empresa."
+},
+{
+"id": 21,
+"name": "Clips Sujetapapeles Gigantes (Caja)",
+"price": 3.10,
+"category": "Archivador",
+"inStock": true,
+"rating": 4.5,
+"createdAt": "2025-04-05T11:05:00Z",
+"description": "Clips grandes y fuertes para agrupar paquetes voluminosos de documentos. Tienen un acabado niquelado para evitar la corrosión."
+},
+{
+"id": 22,
+"name": "Resaltadores Fluorescentes Pack x4",
+"price": 6.80,
+"category": "Boligrafos",
+"inStock": true,
+"rating": 4.7,
+"createdAt": "2025-06-28T14:30:00Z",
+"description": "Tinta brillante de secado rápido para destacar información importante. Punta biselada para líneas finas o gruesas y cobertura total."
+},
+{
+"id": 23,
+"name": "Bloc de Notas Rayado Tamaño A4",
+"price": 4.99,
+"category": "Papeleria",
+"inStock": true,
+"rating": 4.1,
+"createdAt": "2025-01-22T09:00:00Z",
+"description": "Bloc de notas encolado en la parte superior. Ideal para reuniones, conferencias y la transcripción de ideas rápidamente."
+},
+{
+"id": 24,
+"name": "Alfombrilla de Ratón Ergonómica",
+"price": 12.00,
+"category": "Tools",
+"inStock": true,
+"rating": 4.4,
+"createdAt": "2024-10-18T13:20:00Z",
+"description": "Superficie suave y base antideslizante. Diseño con soporte de muñeca para mayor comodidad durante largas horas de trabajo."
+},
+{
+"id": 25,
+"name": "Caja de Seguridad Metálica Pequeña",
+"price": 35.75,
+"category": "Archivador",
+"inStock": false,
+"rating": 4.0,
+"createdAt": "2025-07-09T16:55:00Z",
+"description": "Caja con cerradura de llave para guardar objetos de valor o documentos sensibles. Fabricada en metal resistente."
+},
+{
+"id": 26,
+"name": "Corrector Líquido Tipo Bolígrafo",
+"price": 4.25,
+"category": "Boligrafos",
+"inStock": true,
+"rating": 4.2,
+"createdAt": "2025-03-01T12:15:00Z",
+"description": "Corrector de secado rápido y cobertura uniforme. Punta de precisión para correcciones limpias y detalladas en cualquier texto."
+},
+{
+"id": 27,
+"name": "Cartulina de Colores Surtidos A4 x50",
+"price": 9.50,
+"category": "Papeleria",
+"inStock": true,
+"rating": 4.5,
+"createdAt": "2024-12-25T08:30:00Z",
+"description": "Paquete con 50 hojas de cartulina de diferentes colores intensos. Perfecta para manualidades, pósters y presentaciones."
+},
+{
+"id": 28,
+"name": "Engrapadora Eléctrica Automática",
+"price": 75.60,
+"category": "Tools",
+"inStock": true,
+"rating": 3.8,
+"createdAt": "2025-05-15T10:45:00Z",
+"description": "Engrapadora de alto rendimiento, ideal para grandes volúmenes de trabajo. Carga frontal de grapas, rápida y eficiente."
+},
+{
+"id": 29,
+"name": "Revistero de Malla Metálica",
+"price": 15.99,
+"category": "Archivador",
+"inStock": true,
+"rating": 4.3,
+"createdAt": "2025-02-20T14:00:00Z",
+"description": "Organizador de escritorio para revistas, catálogos y documentos. Diseño moderno y minimalista, optimizando el espacio de trabajo."
+},
+{
+"id": 30,
+"name": "Rotuladores de Pizarra Borrable Set x6",
+"price": 13.75,
+"category": "Boligrafos",
+"inStock": true,
+"rating": 4.9,
+"createdAt": "2025-08-05T15:15:00Z",
+"description": "Tinta de bajo olor y colores intensos. Se borran fácilmente de cualquier superficie de pizarra blanca sin dejar residuos."
+}
+]
